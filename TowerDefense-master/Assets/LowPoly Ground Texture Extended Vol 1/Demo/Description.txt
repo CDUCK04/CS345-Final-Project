@@ -1,0 +1,19 @@
+Description :
+
+48x material lowpoly ground texture
+
+Resolution : 2048x2048
+
+Inclued for each material :
+
+1x Diffuse
+1x height
+1x Normal
+
+This package includes :
+
+LowPoly Grass Texture, LowPoly Dirt Texture, LowPoly Rock Texture, LowPoly Sand Texture, LowPoly Snow Texture, LowPoly Desert Texture
+
+Inclued in lowpoly style :
+
+Grass ground x4, Grass and pebble, Grass and little rock, Grass and rock x2, Dirt ground x5, Dirt and pebble, Dirt and little rock, Dirt and rock,Rock ground x2, Stone paving, Little rock x2, rock x3, Sand ground x3, Sand and gravel, Sand and pebble, Sand and little rock, Sand and rock x2, Snow ground x3, Snow and pebble, Snow and little rock, Snow and rock x3, Desert ground x4, Desert and grass, Desert and little rock, Desert and rock x2
